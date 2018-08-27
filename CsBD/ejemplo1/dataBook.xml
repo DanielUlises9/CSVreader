@@ -1,0 +1,22 @@
+<dataBook xmlns="http://www.jooq.org/xsd/jooq-export-3.10.0.xsd">
+  <fields>
+    <field name="ID" type="INTEGER"/>
+    <field name="AUTHOR_ID" type="INTEGER"/>
+	<field name="AUTHOR_NAME" type="VARCHAR"/>
+    <field name="TITLE" type="VARCHAR"/>
+  </fields>
+  <records>
+    <record>
+      <value field="ID">1</value>
+      <value field="AUTHOR_ID">1</value>
+	  <value field="AUTHOR_NAME">George Orwell</value>
+      <value field="TITLE">1984</value>
+    </record>
+    <record>
+      <value field="ID">2</value>
+      <value field="AUTHOR_ID">1</value>
+	  <value field="AUTHOR_NAME">George Orwell</value>
+      <value field="TITLE">Animal Farm</value>
+    </record>
+  </records>
+</dataBook>

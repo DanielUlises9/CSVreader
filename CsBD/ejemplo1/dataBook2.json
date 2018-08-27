@@ -1,0 +1,12 @@
+{
+"fields":[
+	{"name":"ID","type":"integer"},
+	{"name":"AUTHOR_ID","type":"integer"},
+	{"name":"AUTHOR_NAME","type":"varchar"}
+	{"name":"TITLE","type":"varchar"}
+	],
+"records":[
+	[1,1,"George Orwell","1984"],
+	[2,1,"George Orwell","Animal Farm"]
+	]
+}
